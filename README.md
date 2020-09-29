@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m currently learning Java, Kotlin, JS, Vue.js and C#.
+- I’m currently learning Java, Kotlin, JS, Vue.js and React.
 
 
 
