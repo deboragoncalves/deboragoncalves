@@ -16,6 +16,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="50" alt="HTML" style="margin: 0 15px !important; cursor: pointer;" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" width="50" alt="CSS" style="margin: 0 15px !important; cursor: pointer;" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="50" alt="CSS" style="margin: 0 15px !important; cursor: pointer;" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"  height="50" width="50" alt="PostegreSQL" style="margin: 0 15px !important; cursor: pointer;" />
 </div>
 
 
