@@ -18,6 +18,11 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="50" alt="CSS" style="margin: 0 15px !important; cursor: pointer;" />
 </div>
 
+##
+
+![Snake animation](https://github.com/deboragoncalves/deboragoncalves/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
