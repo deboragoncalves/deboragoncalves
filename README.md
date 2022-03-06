@@ -9,8 +9,6 @@
 
 <br />
 
-## Languages:
-
 <div style="display: inline_block">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50" alt="Javascript" style="margin: 0 15px !important; cursor: pointer;" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" width="50" alt="Typescript" style="margin: 0 15px !important; cursor: pointer;" />
