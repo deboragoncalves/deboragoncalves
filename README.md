@@ -1,8 +1,8 @@
 ## Hi 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboragoncalves&show_icons=trueinclude_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboragoncalves" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=deboragoncalves&show_icons=trueinclude_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboragoncalves&" />
 </div>
 
 <br />
