@@ -2,7 +2,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboragoncalves&show_icons=trueinclude_all_commits=true&count_private=true"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deboragoncalves)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deboragoncalves)](https://github.com/deboragoncalves/github-readme-stats)
 </div>
 
 <br />
