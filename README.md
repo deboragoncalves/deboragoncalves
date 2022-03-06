@@ -4,10 +4,12 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=deboragoncalves&show_icons=trueinclude_all_commits=true&count_private=true"/>
 </div>
 <div align="center">
-    <img height="400em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboragoncalves&hide=jupyter%20notebook" />
+    <img height="300em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboragoncalves&hide=jupyter%20notebook" />
 </div>
 
 <br />
+
+## Languages:
 
 <div style="display: inline_block">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50" alt="Javascript" style="margin: 0 15px !important; cursor: pointer;" />
