@@ -2,7 +2,9 @@
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=deboragoncalves&show_icons=trueinclude_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboragoncalves&" />
+</div>
+<div>
+    <img height="200em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboragoncalves&hide=jupyter%20notebook" />
 </div>
 
 <br />
