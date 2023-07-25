@@ -1,7 +1,7 @@
 
 ![](https://streak-stats.demolab.com/?user=deboragoncalves)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=deboragoncalves&show_icons=true&locale=en&layout=compact&theme=dark)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=deboragoncalves&show_icons=true&locale=en&layout=compact)
 
 ---
 
